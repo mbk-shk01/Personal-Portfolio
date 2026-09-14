@@ -142,6 +142,11 @@ img {
     border-color: #1f3c88;
 }
 
+dt {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
 
 /* BUTTON */
 
